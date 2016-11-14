@@ -21,3 +21,16 @@ It will direct to WEB UI and from there you can play with the play with the conf
 
 The following are the public Google cloud URL's, where the 4 Ubuntu Virtual Machines are running as an instances and they are acting as a  docker engines. These IP's are also shown in UI when you add & delete the Docker containers from which you can test the WEB server accessibility from your machine.
 104.198.31.108, 104.197.32.181, 104.197.197.157, 104.197.123.27
+
+:::::::::: Technical terms Explanation ::::::::::::::::
+
+Docker Image : Any application packed with all needed executables.
+
+Docker Service: An running instance of Docker Image on a container.
+
+Replicas -- Specifies on how many docker engines the chosen service need to be running.
+
+Docker Swarm -- It turns a pool of Docker engines into a cluster which greatly simplifies for service redundency management.
+
+Docker Container -- Lightweight VM where Docker Images can be run.
+
