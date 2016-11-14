@@ -20,7 +20,16 @@ http://134.193.128.118:8080/ContainerRegisterService/
 It will direct to WEB UI and from there you can play with the play with the configuration which will act on the Docker engines running on remote Google Cloud.
 
 The following are the public Google cloud URL's, where the 4 Ubuntu Virtual Machines are running as an instances and they are acting as a  docker engines. These IP's are also shown in UI when you add & delete the Docker containers from which you can test the WEB server accessibility from your machine.
-104.198.31.108, 104.197.32.181, 104.197.197.157, 104.197.123.27
+104.198.31.108
+104.197.32.181
+104.197.197.157
+104.197.123.27
+
+::::::::::Programming Environment :::::::::::
+
+Java/Docker REST API/Google Cloud REST API/
+Netbeans
+Glass Fish Server
 
 :::::::::: Technical terms Explanation ::::::::::::::::
 
