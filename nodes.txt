@@ -1,1 +1,9 @@
+:::::::: Google Public cloud URL's.
+
 104.198.31.108 104.197.32.181 104.197.197.157 104.197.123.27
+
+:::::::::: Technical terms
+Docker Image : Any application packed with all needed executables.
+Replicas -- Specifies on how many docker engines the chosen service need to be running.
+Docker Swarm -- It turns a pool of Docker engines into a cluster which greatly simplifies for service redundency management.
+Docker Container -- Lightweight VM where Docker Images can be run.
