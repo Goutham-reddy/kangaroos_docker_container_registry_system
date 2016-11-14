@@ -40,6 +40,7 @@ It will direct to WEB UI and from there you can play with the play with the conf
 :::::::: Info :::::::::::::
 
 The following are the public Google cloud URL's, where the 4 Ubuntu Virtual Machines are running as an instances and they are acting as a  docker engines. These IP's are also shown in UI when you add & delete the Docker containers from which you can test the WEB server accessibility from your machine.
+
 104.198.31.108
 104.197.32.181
 104.197.197.157
