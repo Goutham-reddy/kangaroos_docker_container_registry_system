@@ -6,7 +6,7 @@ UMKC - Hackatron Code Submission
 :::::::::::Abstract::::
 We have created a Docker container registry service application where users can add/delete/auto provision/check usage bill/manage/ chosen container resources(WEB Servers Images) on the Docker engine hosted on the Google cloud dynamically using friendly UI which eliminates the struggle for user to get into low level technical understandings of how to configure Docker, WEB Servers, Google cloud Virtual Machines etc and provide additional advantage to replicate and  specify computing resources per services.
 
-::::::::Usage Details::::
+::::::::Application Usage Steps::::
 
 To use the project, import it as netbeans webapplication. Add the dependencies for HttpComponents and org.json.
 
