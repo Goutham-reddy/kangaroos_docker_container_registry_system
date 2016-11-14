@@ -28,7 +28,9 @@ The following are the public Google cloud URL's, where the 4 Ubuntu Virtual Mach
 ::::::::::Programming Environment :::::::::::
 
 Java/Docker REST API/Google Cloud REST API/
+
 Netbeans
+
 Glass Fish Server
 
 :::::::::: Technical terms Explanation ::::::::::::::::
